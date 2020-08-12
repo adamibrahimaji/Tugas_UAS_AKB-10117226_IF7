@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffcf40</color>
+    <color name="colorPrimaryDark">#bb53fc</color>
+    <color name="colorAccent">#fce9db</color>
+    <color name="bgprofile">#193a50</color>
+    <color name="bgprofile_sub">#ffff</color>
+</resources>
